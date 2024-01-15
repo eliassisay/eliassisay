@@ -30,6 +30,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) -->
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sodoo22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 
 ## 🏆 GitHub Trophies
