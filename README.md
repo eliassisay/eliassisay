@@ -17,7 +17,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=plastic)
-![Jest](https://img.shields.io/badge/Jest-323330?style=plastic&logo=Jest&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
