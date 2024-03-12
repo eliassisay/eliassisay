@@ -27,7 +27,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eliassisay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eliassisay&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliassisay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
