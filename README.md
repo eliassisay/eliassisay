@@ -24,7 +24,7 @@
 ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white)
+
 
 # 📊 GitHub Stats:
 
